@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+  
+footer {
+    margin-top: 2rem;
+}
+  
